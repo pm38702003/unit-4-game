@@ -26,7 +26,7 @@ body {
     border:1px solid gray;
     padding:8px;
     background:gray;
-    margin-bottom: 20px
+    margin-bottom: 0px
   }
   .row5{
     width:100%;
@@ -36,4 +36,8 @@ body {
     background:gray;
     margin-bottom: 20px
   }
+
+ .col-1{
+  Margin-top: 0;
+ }
   
